@@ -1,0 +1,10 @@
+\\192.168.1.254\dados\2A-DS-PI\Natã e Luiz\DESENVOLVIMENTO DE SISTEMAS\CSharp\Algoritmo Arrays 1\Algoritmo Arrays 1\bin\Debug\Algoritmo Arrays 1.exe.config
+\\192.168.1.254\dados\2A-DS-PI\Natã e Luiz\DESENVOLVIMENTO DE SISTEMAS\CSharp\Algoritmo Arrays 1\Algoritmo Arrays 1\bin\Debug\Algoritmo Arrays 1.exe
+\\192.168.1.254\dados\2A-DS-PI\Natã e Luiz\DESENVOLVIMENTO DE SISTEMAS\CSharp\Algoritmo Arrays 1\Algoritmo Arrays 1\bin\Debug\Algoritmo Arrays 1.pdb
+\\192.168.1.254\dados\2A-DS-PI\Natã e Luiz\DESENVOLVIMENTO DE SISTEMAS\CSharp\Algoritmo Arrays 1\Algoritmo Arrays 1\obj\Debug\Algoritmo Arrays 1.csproj.AssemblyReference.cache
+\\192.168.1.254\dados\2A-DS-PI\Natã e Luiz\DESENVOLVIMENTO DE SISTEMAS\CSharp\Algoritmo Arrays 1\Algoritmo Arrays 1\obj\Debug\Algoritmo_Arrays_1.Form1.resources
+\\192.168.1.254\dados\2A-DS-PI\Natã e Luiz\DESENVOLVIMENTO DE SISTEMAS\CSharp\Algoritmo Arrays 1\Algoritmo Arrays 1\obj\Debug\Algoritmo_Arrays_1.Properties.Resources.resources
+\\192.168.1.254\dados\2A-DS-PI\Natã e Luiz\DESENVOLVIMENTO DE SISTEMAS\CSharp\Algoritmo Arrays 1\Algoritmo Arrays 1\obj\Debug\Algoritmo Arrays 1.csproj.GenerateResource.cache
+\\192.168.1.254\dados\2A-DS-PI\Natã e Luiz\DESENVOLVIMENTO DE SISTEMAS\CSharp\Algoritmo Arrays 1\Algoritmo Arrays 1\obj\Debug\Algoritmo Arrays 1.csproj.CoreCompileInputs.cache
+\\192.168.1.254\dados\2A-DS-PI\Natã e Luiz\DESENVOLVIMENTO DE SISTEMAS\CSharp\Algoritmo Arrays 1\Algoritmo Arrays 1\obj\Debug\Algoritmo Arrays 1.exe
+\\192.168.1.254\dados\2A-DS-PI\Natã e Luiz\DESENVOLVIMENTO DE SISTEMAS\CSharp\Algoritmo Arrays 1\Algoritmo Arrays 1\obj\Debug\Algoritmo Arrays 1.pdb
