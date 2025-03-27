@@ -1,4 +1,3 @@
-Imagens:
 <img src"![image](https://github.com/user-attachments/assets/4a2834eb-7e5c-4bed-84f6-651dd92e735c)"/>
 <img src"![image](https://github.com/user-attachments/assets/fdfed039-350b-4521-b52f-205cf203e5df)"/>
 
