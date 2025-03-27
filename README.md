@@ -1,6 +1,6 @@
-Prints:
-<img  src"https://github.com/user-attachments/assets/f460eb89-d0ba-4548-a778-94ba2ee9caa6"/>
-<img src"https://github.com/user-attachments/assets/851646ce-f13c-4648-8b07-d762480b4a12"/>
+Imagens:
+<img src"![image](https://github.com/user-attachments/assets/4a2834eb-7e5c-4bed-84f6-651dd92e735c)"/>
+<img src"![image](https://github.com/user-attachments/assets/fdfed039-350b-4521-b52f-205cf203e5df)"/>
 
 GIT INIT - para incializar o repositorio local e a pasta .git no projeto.
 GIT CONFIG --GLOBAL USER.NAME/EMAIL - para verificar e configurar o Nome e Email.
