@@ -1,6 +1,7 @@
 EXERCÍCIO SOBRE ARRAYS FEITO EM CSHARP | EXERCÍCIO SOBRE GIT E GITHUB
 
 LUIZ HENRIQUE ARAUJO FARIAS
+&
 NATÃ BARSOTTI PLAÇA
 
 ![image](https://github.com/user-attachments/assets/4a2834eb-7e5c-4bed-84f6-651dd92e735c)
